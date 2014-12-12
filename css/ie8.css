@@ -1,0 +1,29 @@
+
+#logo_text{
+  font-size: 16px;
+}
+#logo_text h1{ 
+  font-size: 66px;
+}
+#logo_text h2 { 
+  font-size: 26px;
+}
+#logo_text p { 
+  font-size:14px;
+}
+.special_deal div{
+	font-size: 12px;
+}
+#footer {
+  font-size:12px;
+}
+#footer .footer_link{
+	font-size:16px;
+}
+ul#nav li a {
+  font-size: 14px;
+	padding: 7px 65px 0 0;
+}
+.special_deal div {
+top: 100px;
+}
